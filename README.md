@@ -77,7 +77,9 @@ now you can ask the Claude Desktop question:
 Use a tool to help me calculate: if a = 1 and b = 2, what is a + b?
 ![alt text](Images/image5.png)
 
-Claude Desktop successfully invoked the tool deployed on the server hosted on the Linux machine. Due to port forwarding, accessing 127.0.0.1:8081 locally is equivalent to accessing the MCP server at 127.0.0.1:8080 on the remote server.
+Claude Desktop successfully invoked the tool deployed on the server hosted on the Linux machine. 
+
+Due to port forwarding, accessing 127.0.0.1:8081 locally is equivalent to accessing the MCP server at 127.0.0.1:8080 on the remote server.
 
 ## (Optional)Use Termius for Port Forwarding
 If VSCode cannot automatically perform port forwarding for you, you can use a free tool like Termius(https://www.termius.com/) to achieve port forwarding.
