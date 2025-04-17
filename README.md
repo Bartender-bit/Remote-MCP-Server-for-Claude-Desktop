@@ -64,7 +64,7 @@ and you can see VSCode automatically mapped 127.0.0.1:8000 on the remote server 
 ![alt text](Images/image1.png)
 
 Now go back to your Windows Claude Desktop, click File->Setting->Developer->Edit Config, and edit the json file:
-![alt text](Images/image4.png)
+![alt text](Images/image4.jpg)
 
 ```
 "math": {
