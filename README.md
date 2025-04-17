@@ -85,7 +85,7 @@ Due to port forwarding, accessing 127.0.0.1:8081 locally is equivalent to access
 If VSCode cannot automatically perform port forwarding for you, you can use a free tool like Termius(https://www.termius.com/) to achieve port forwarding.
 
 Create your new host, fill in your SSH connection details:
-![alt text](Images/image6.png.png)
+![alt text](Images/image6.png)
 
 (Here, we assume that you have already set up the MCP environment and written the MCP server code.)
 
