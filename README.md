@@ -22,7 +22,7 @@ pip install mcp openai python-dotenv mcp[cli]
 ```
 
 ## 2.Use VSCode for Port Forwarding
-Create any Python file (e.g. weatherSSE.py) and typing the following MCP server code in the highlighted section:
+SSH your server. Create any Python file (e.g. weatherSSE.py) and typing the following MCP server code in the highlighted section:
 ![alt text](Images/image3.png)
 ```
 from typing import Any, Dict
